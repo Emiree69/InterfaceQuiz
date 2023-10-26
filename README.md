@@ -1,0 +1,1 @@
+Dit is een simpele reken quiz. Het is de bedoeling om 10 punten te halen. Bij elk goed antwoord komt er een punt bij je totaal. En bij elk fout antwoord gaat er een punt van je totaal af.
